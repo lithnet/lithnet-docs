@@ -7,8 +7,8 @@
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
+   :caption: Documentation Sites
 
-   Lithnet Access Manager documentation <https://docs.lithnet.io/projects/access-manager>
+   Lithnet Access Manager <https://docs.lithnet.io/projects/access-manager>
    
 
