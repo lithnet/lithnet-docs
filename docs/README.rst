@@ -1,4 +1,5 @@
-.. image::  images/lithnet-logo.png
+|
+   .. image::  images/lithnet-logo.png
    :align: center
    :width: 400
 

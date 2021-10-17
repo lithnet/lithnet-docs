@@ -9,6 +9,6 @@
    :maxdepth: 1
    :caption: Contents:
 
-   Lithnet Access Manager documentation </projects/access-manager>
+   Lithnet Access Manager documentation <https://docs.lithnet.io/projects/access-manager>
    
 
