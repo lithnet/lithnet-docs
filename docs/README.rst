@@ -1,6 +1,5 @@
-|br|
 
-   .. image::  images/lithnet-logo.png
+   .. figure::  images/lithnet-logo.png
    :align: center
    :width: 400
 
