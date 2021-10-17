@@ -1,11 +1,11 @@
 |
-   
+
 .. figure::  images/lithnet-logo.png
    :align: center
    :width: 400
 
 ----
 
-Welcome to the Lithnet product documentation site
+Select a project from the list below to the view the documentation you require
 
 `Lithnet Access Manager </projects/access-manager>`_
