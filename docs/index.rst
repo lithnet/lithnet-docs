@@ -11,5 +11,6 @@
 
    Lithnet Access Manager <https://docs.lithnet.io/projects/access-manager>
    Lithnet AD Password Protection <https://docs.lithnet.io/projects/lithnet-ad-password-protection/en/latest>
+   Lithnet OKTA Management Agent <https://docs.lithnet.io/projects/oka-ma/en/latest/>
    
 
