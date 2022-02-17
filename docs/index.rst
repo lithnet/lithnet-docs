@@ -10,5 +10,6 @@
    :caption: Documentation Sites
 
    Lithnet Access Manager <https://docs.lithnet.io/projects/access-manager>
+   Lithnet AD Password Protection <https://docs.lithnet.io/projects/lithnet-ad-password-protection/en/latest>
    
 
