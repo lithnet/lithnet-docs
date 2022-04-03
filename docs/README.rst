@@ -7,5 +7,3 @@
 ----
 
 Select a project from the list below to the view the documentation you require
-
-`Lithnet Access Manager </projects/access-manager>`_
