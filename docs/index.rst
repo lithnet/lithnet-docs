@@ -11,7 +11,8 @@
 
    Access Manager <https://docs.lithnet.io/projects/access-manager>
    ACMA Codeless Rules Engine for Microsoft Identity Manager <https://github.com/lithnet/acma/wiki>
-   Assisted Password Reset Module for Microsoft Identity Manager<https://github.com/lithnet/resourcemanagement-ui-assistedpasswordreset/wiki>
+   Assisted Password Reset Module for Microsoft Identity Manager <https://github.com/lithnet/resourcemanagement-ui-assistedpasswordreset/wiki>
+   AutoSync for Microsoft Identity Manager <https://github.com/lithnet/miis-autosync/wiki>
    Google Workspace Management Agent for Microsoft Identity Manager<https://github.com/lithnet/googleapps-managementagent/wiki>
    Idle Logoff <https://github.com/lithnet/idle-logoff/wiki>
    Okta Management Agent for Microsoft Identity Manager <https://docs.lithnet.io/projects/okta-ma/en/latest/>
